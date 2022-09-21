@@ -8,7 +8,7 @@ i'm a fullstack developer who loves to learn
 
 * ✉️  You can contact me at [ogheneruonaagadagba4@gmail.com](mailto:ogheneruonaagadagba4@gmail.com)
 * 🧠  I'm learning AWS
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborate on Projects
 * ⚡  I Am Superman, Tell Everyone
 
 ### Skills
