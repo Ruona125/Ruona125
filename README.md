@@ -7,7 +7,7 @@ Fullstack Developer
 i'm a fullstack developer who loves to learn
 
 * ✉️  You can contact me at [ogheneruonaagadagba4@gmail.com](mailto:ogheneruonaagadagba4@gmail.com)
-* 🧠  I'm learning Java 
+* 🧠  I'm learning Terraform 
 * 🤝  I'm open to collaborate on Projects
 * ⚡  I Am Superman, Tell Everyone
 
