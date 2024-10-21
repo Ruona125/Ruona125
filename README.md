@@ -1,10 +1,10 @@
-Hi 👋 My name is Ruona Agadagba
+Hi 👋 My name is Ruona Ethan Agadagba
 ===============================
 
-Fullstack Developer
+Fullstack & DevOps Engineer
 -------------------
 
-i'm a fullstack developer who loves to learn
+i'm a fullstack & DevOps who loves to learn
 
 * ✉️  You can contact me at [meetruona@gmail.com](mailto:meetruona@gmail.com) & www.meetruona.com
 * 🧠  I'm currently learning Prometheus 
