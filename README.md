@@ -1,4 +1,4 @@
-Hi 👋 My name is Ruona Ethan Agadagba
+Hi 👋 My name is Ruona Ethan 
 ===============================
 
 Fullstack & DevOps Engineer
