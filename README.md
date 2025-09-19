@@ -7,7 +7,7 @@ Fullstack & DevOps Engineer
 i'm a fullstack & DevOps who loves to learn
 
 * ✉️  You can contact me at [meetruona@gmail.com](mailto:meetruona@gmail.com) & www.meetruona.com
-* 🧠  I'm currently learning Prometheus 
+* 🧠  I'm currently learning DevSecOps 
 * 🤝  I'm open to collaborate on Projects
 * ⚡  I Am Superman, Tell Everyone
 
