@@ -1,7 +1,7 @@
 Hi 👋 My name is Ruona Ethan 
 ===============================
 
-Fullstack & DevOps Engineer
+Fullstack & Platform Engineer
 -------------------
 
 i'm a fullstack & DevOps who loves to learn
